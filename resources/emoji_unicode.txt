@@ -1,0 +1,119 @@
+1F600 - grinning face
+1F601 - beaming face with smiling eyes
+1F602 - face with tears of joy
+1F923 - rolling on the floor laughing
+1F603 - grinning face with big eyes
+1F604 - grinning face with smiling eyes
+1F605 - grinning face with sweat
+1F606 - grinning squinting face
+1F609 - winking face
+1F60A - smiling face with smiling eyes
+1F60B - face savoring food
+1F60E - smiling face with sunglasses
+1F60D - smiling face with heart-eyes
+1F618 - face blowing a kiss
+1F617 - kissing face
+1F619 - kissing face with smiling eyes
+1F61A - kissing face with closed eyes
+263A - smiling face
+263A - smiling face
+1F642 - slightly smiling face
+1F917 - hugging face
+1F929 - star-struck
+1F914 - thinking face
+1F928 - face with raised eyebrow
+1F610 - neutral face
+1F611 - expressionless face
+1F636 - face without mouth
+1F644 - face with rolling eyes
+1F60F - smirking face
+1F623 - persevering face
+1F625 - sad but relieved face
+1F62E - face with open mouth
+1F910 - zipper-mouth face
+1F62F - hushed face
+1F62A - sleepy face
+1F62B - tired face
+1F634 - sleeping face
+1F60C - relieved face
+1F61B - face with tongue
+1F61C - winking face with tongue
+1F61D - squinting face with tongue
+1F924 - drooling face
+1F612 - unamused face
+1F613 - downcast face with sweat
+1F614 - pensive face
+1F615 - confused face
+1F643 - upside-down face
+1F911 - money-mouth face
+1F632 - astonished face
+2639 - frowning face
+2639 - frowning face
+1F641 - slightly frowning face
+1F616 - confounded face
+1F61E - disappointed face
+1F61F - worried face
+1F624 - face with steam from nose
+1F622 - crying face
+1F62D - loudly crying face
+1F626 - frowning face with open mouth
+1F627 - anguished face
+1F628 - fearful face
+1F629 - weary face
+1F92F - exploding head
+1F62C - grimacing face
+1F630 - anxious face with sweat
+1F631 - face screaming in fear
+1F633 - flushed face
+1F92A - crazy face
+1F635 - dizzy face
+1F621 - pouting face
+1F620 - angry face
+1F92C - face with symbols on mouth
+1F637 - face with medical mask
+1F912 - face with thermometer
+1F915 - face with head-bandage
+1F922 - nauseated face
+1F92E - face vomiting
+1F927 - sneezing face
+1F607 - smiling face with halo
+1F920 - cowboy hat face
+1F921 - clown face
+1F925 - lying face
+1F92B - shushing face
+1F92D - face with hand over mouth
+1F9D0 - face with monocle
+1F913 - nerd face
+1F608 - smiling face with horns
+1F47F - angry face with horns
+1F479 - ogre
+1F47A - goblin
+1F480 - skull
+2620 - skull and crossbones
+2620 - skull and crossbones
+1F47B - ghost
+1F47D - alien
+1F47E - alien monster
+1F916 - robot face
+1F4A9 - pile of poo
+1F63A - grinning cat face
+1F638 - grinning cat face with smiling eyes
+1F639 - cat face with tears of joy
+1F63B - smiling cat face with heart-eyes
+1F63C - kissing cat face
+1F640 - weary cat face
+1F63F - crying cat face
+1F63E - pouting cat face
+1F648 - see-no-evil monkey
+1F649 - hear-no-evil monkey
+1F64A - speak-no-evil monkey
+1F476 - baby
+1F9D2 - child
+1F466 - boy
+1F467 - girl
+1F9D1 - adult
+1F468 - man
+1F469 - woman
+1F9D3 - older adult
+1F474 - old man
+1F475 - old woman
