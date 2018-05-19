@@ -10,7 +10,7 @@ class DOM:
 
     @staticmethod
     def main():
-        path = "../../resources/ChatTabsPagelet4.txt"
+        path = "../../resources/ChatTabsPagelet6.txt"
         dom_file = open(path, 'r', encoding="utf8")
         divs = BeautifulSoup(dom_file, 'html.parser').find_all('div')
 
@@ -48,9 +48,6 @@ class DOM:
                 div_text = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_5pbx userContent _3576")
                 div_images = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_3x-2")
 
-                # print(postel.attrs['id'])
-                # print(div_title.text.replace("\n", "").replace("  ", ""))
-                # print(div_text.text)
                 iden = postel.attrs['id']
                 title = div_title.text.replace("\n", "").replace("  ", "")
                 try:
@@ -62,7 +59,6 @@ class DOM:
                 for image in images:
                     if 'src' in image.attrs:
                         imagesList.append(image.attrs['src'])
-                        # print(image.attrs['ajaxify'])
                 post.set_post(iden, title, imagesList, text)
                 post.display()
                 post_list.append(post)

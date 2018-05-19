@@ -33,18 +33,10 @@ class Operations:
 
     def extract_content(self):
         content = DOMContent()
-        posts = self.extract_post_content()
+        posts = self.dom.extract_posts()
         conversations = self.dom.extract_conversations()
 
         content.set_post(posts)
         content.set_conversation(conversations)
 
         return content
-
-    def extract_post_content(self):
-        posts = self.dom.main_posts()
-        return posts
-
-    def extract_conversation_content(self):
-        conversations = self.dom.main_conversation()
-        return conversations
