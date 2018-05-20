@@ -1,14 +1,24 @@
 from modules.chat_module.feature_identifier import FeatureIdentifier
+from modules.chat_module.preprocessor import PreProcessor
 from modules.chat_module.message_grouper import MessageGrouper
 from log.logger import GeneralLogger
 
 Logger = GeneralLogger(__name__)
 GenLogger = Logger.init_general_logger()
 
+chat_feature_identifier = FeatureIdentifier()
+preprocessor = PreProcessor()
+
 
 class ChatHandler:
 
     def main(self, conversations):
+        """
+           Returns Intention exhibited by each Chatter in a Conversation
+
+           @:param   ==>> List of Conversations
+           @:returns ==>> Nature of Intention of the Chatter
+        """
         for conversation in conversations:
             for msg in conversation.messages:
                 if msg.msg_type == 2:
@@ -28,9 +38,9 @@ class ChatHandler:
             @:param   ==>> A single message
             @:returns ==>> Text Features of the given message
         """
-        chat_feature_identifier = FeatureIdentifier()
         only_txt = chat_feature_identifier.separator(messages)
-        return only_txt
+        preprocessed_txt = preprocessor.main_pre_process(only_txt)
+        return preprocessed_txt
 
     @staticmethod
     def identify_message_groups(messages):

@@ -76,7 +76,7 @@ ADMINR <<>> Administrator
 ADN <<>> Any day now
 ADR <<>> Address
 AEAP <<>> As early as possible
-AF <<>> As *Freak*
+AF <<>> As fuck
 AFC <<>> Away from computer
 AFAIAA <<>> As far as I am aware
 AFAIC <<>> As far as I am concerned
@@ -142,28 +142,28 @@ B& <<>> Banned
 B2B <<>> Business-to-business
 B2C <<>> Business-to-consumer
 B2W <<>> Back to work
-B8 <<>> Bait (person teased or joked with, or under-aged person/teen)
+B8 <<>> Bait
 B9 <<>> Boss is watching
 B/F <<>> Boyfriend
-B/G <<>> Background (personal information request)
+B/G <<>> Background
 B4 <<>> Before
 B4N <<>> Bye for now
 BAG <<>> Busting a gut
-BA <<>> Bad *a*
+BA <<>> Bad Ass
 BAE <<>> Before anyone else
 BAE <<>> Meaning Babe or baby
 BAFO <<>> Best and final offer
 BAK <<>> Back at keyboard
 BAM <<>> Below average mentality
-BAMF <<>> Bad *a* mother *f*
+BAMF <<>> Bad ass mother fucker
 BAO <<>> Be aware of
-BAS <<>> Big 'butt' smile
+BAS <<>> Big ass smile
 BASOR <<>> Breathing a sigh of relief
 BAU <<>> Business as usual
 BAY <<>> Back at ya
 BB <<>> Be back
 BB <<>> Big brother
-BB <<>> Bebi / Baby (Spanish SMS)
+BB <<>> Baby
 BBC <<>> Big bad challenge
 BBIAB <<>> Be back in a bit
 BBIAF <<>> Be back in a few
@@ -171,7 +171,7 @@ BBIAM <<>> Be back in a minute
 BBIAS <<>> Be back in a sec
 BBL <<>> Be back later
 BBN <<>> Bye, bye now
-BBQ <<>> Barbeque, "Ownage", shooting score/frag (online gaming)
+BBQ <<>> Barbeque
 BBS <<>> Be back soon
 BBT <<>> Be back tomorrow
 BC <<>> Because
@@ -186,17 +186,16 @@ BDAY <<>> Birthday
 B-DAY <<>> Birthday
 BDN <<>> Big darn number
 BEG <<>> Big evil grin
-BELF <<>> Meaning "Blood Elf" (online gaming)
+BELF <<>> Blood Elf
 BF <<>> Boyfriend
 BF <<>> Brain fart
 BFAW <<>> Best friend at work
-BF2 <<>> Battlefield 2 (online gaming)
 BF <<>> Best friend
 BFF <<>> Best friends forever
 BFFL <<>> Best friends for life
 BFFLNMW <<>> Best friends for life, no matter what
-BFD <<>> Big freaking deal
-BFG <<>> Big� freaking grin
+BFD <<>> Big fucking deal
+BFG <<>> Big fucking grin
 BFFN <<>> Best friend for now
 BFN <<>> Bye for now
 BG <<>> Big grin
@@ -208,27 +207,27 @@ BIC <<>> Butt in chair
 BIF <<>> Before I forget
 BIH <<>> Burn in hell
 BIL <<>> Brother in law
-BIO <<>> Meaning "I'm going to the bathroom" (or) "Bathroom break"
+BIO <<>> I'm going to the bathroom
 BION <<>> Believe it or not
-BIOYA <<>> Blow it out your *a*
+BIOYA <<>> Blow it out your ass
 BIOYN <<>> Blow it out your nose
 BIS <<>> Best in slot (online gaming)
-BISFLATM <<>> Boy, I sure feel like a turquoise monkey! (unverified)
+BISFLATM <<>> Boy, I sure feel like a turquoise monkey
 BITMT <<>> But in the meantime
 BL <<>> Belly laugh
 BLNT <<>> Better luck next time
 BM <<>> Bite me
 BME <<>> Based on my experience
 BM&Y <<>> Between me and you
-BOB <<>> Back off *buddy*
+BOB <<>> Back off Bitch
 BN <<>> Bad news
-BOE <<>> Meaning "bind on equip" (online gaming)
+BOE <<>> bind on equip
 BOHICA <<>> Bend over here it comes again
 BOL <<>> Best of luck
-BOM <<>> *b* of mine
+BOM <<>> Bitch of mine
 BOLO <<>> Be on the look out
 BOOMS <<>> Bored out of my skull
-BOP <<>> Meaning "bind on pickup" (online gaming)
+BOP <<>> bind on pickup
 BOSMKL <<>> Bending over smacking my knee laughing
 BOT <<>> Back on topic
 BOT <<>> Be on that
@@ -236,7 +235,7 @@ BOYF <<>> Boyfriend
 BPLM <<>> Big person little mind
 BRB <<>> Be right back
 BR <<>> Best regards
-BRBB <<>> Be right back *babe*
+BRBB <<>> Be right back babe
 BRNC <<>> Be right back, nature calls
 BRD <<>> Bored
 BRH <<>> Be right here
@@ -248,29 +247,27 @@ BT <<>> Bite this
 BT <<>> Between technologies
 BTA <<>> But then again
 BTDT <<>> Been there, done that
-BTW <<>> By the way�
-BTYCL <<>> Meaning 'Bootycall'
-BUBU <<>> Slang term for the most beautiful of women
-BWL <<>> Bursting with laughter�
-BYOB <<>> Bring your own beer�
+BTW <<>> By the way
+BTYCL <<>> Booty call
+BUBU <<>> most beautiful of women
+BWL <<>> Bursting with laughter
+BYOB <<>> Bring your own beer
 BYOC <<>> Bring your own computer
 BYOD <<>> Bring your own device
-BYOH <<>> Bat you on (the) head
-BYOP <<>> Bring your own paint (paintball)
+BYOH <<>> Bat you on the head
 BYTM <<>> Better you than me
 C&G <<>> Chuckle & grin
 C4N <<>> Ciao for now
 CAD <<>> Control + Alt + Delete
-CAD <<>> Short for Canada/Canadian
-CAM <<>> Camera (SMS)
+CAM <<>> Camera
 CB <<>> Coffee break
 CB <<>> Chat break
-CB <<>> Crazy *b*
-CD9 <<>> Code 9, Meaning "parents are around"
+CB <<>> Crazy bitch
+CD9 <<>> parents are around
 CFS <<>> Care for secret?
 CFY <<>> Calling for you
 CHK <<>> Check
-CIAO <<>> Good-bye (Italian word)
+CIAO <<>> Good bye
 CICO <<>> Coffee in, coffee out
 CID <<>> Crying in disgrace
 CID <<>> Consider it done
@@ -278,32 +275,32 @@ CLAB <<>> Crying like a baby
 CLD <<>> Could
 CLK <<>> Click
 CM <<>> Call me
-CMAP <<>> Cover my *a* partner (online gaming)
+CMAP <<>> Cover my ass partner
 CMB <<>> Call me back
-CMGR <<>> Meaning "Community manager"
+CMGR <<>> Community manager
 CMIIW <<>> Correct me if I'm wrong
 CMON <<>> Come on
-CNP <<>> Continued (in) next post
+CNP <<>> Continued in next post
 COB <<>> Close of business
-COH <<>> City of Heroes (online gaming)
+COH <<>> City of Heroes
 COS <<>> Because
 C/P <<>> Cross post
-CP <<>> Chat post (or continue in IM)
+CP <<>> Chat post
 CR8 <<>> Create
 CRE8 <<>> Create
-CRA CRA <<>> Slang term meaning "crazy"
-CRAFT <<>> Can't remember a *freaking* thing
+CRA <<>> crazy
+CRAFT <<>> Can't remember a fucking thing
 CRB <<>> Come right back
-CRBT� <<>> Crying really big tears�
-CRIT� <<>> Meaning "critical hit" (online gaming)
-CRZ� <<>> Crazy
-CRS� <<>> Can't remember *stuff*
+CRBT <<>> Crying really big tears
+CRIT <<>> critical hit
+CRZ <<>> Crazy
+CRS <<>> Can't remember stuff
 CSG <<>> Chuckle, snicker, grin
 CSL <<>> Can't stop laughing
-CSS <<>> Counter-Strike Source (online gaming)
+CSS <<>> Counter-Strike Source
 CT <<>> Can't talk
 CTC <<>> Care to chat?
-CTHU <<>> Cracking the *heck* up
+CTHU <<>> Cracking the heck up
 CTN <<>> Can't talk now
 CTO <<>> Check this out
 CU <<>> See you too
@@ -317,60 +314,54 @@ CUMID <<>> See you in my dreams
 CURLO <<>> See you around like a donut
 CWOT <<>> Complete waste of time
 CWYL <<>> Chat with you later
-CX <<>> Meaning "Correction"
+CX <<>> Correction
 CYA <<>> See you
 CYAL8R <<>> See you later
 CYE <<>> Check your e-mail
-CYEP <<>> Close your eyes partner (online gaming)
+CYEP <<>> Close your eyes partner
 CYO <<>> See you online
-D2 <<>> Dedos / fingers (Spanish SMS)
 D46? <<>> Down for sex?
-DA <<>> Meaning "The"
+DA <<>> The
 DAE <<>> Does anyone else?
-DAFUQ <<>> (What) the *Freak*?
+DAFUQ <<>> What the Fuck?
 DAM <<>> Don't annoy me
-DAoC <<>> Dark Age of Camelot (online gaming)
+DAoC <<>> Dark Age of Camelot
 DBAU <<>> Doing business as usual
 DBEYR <<>> Don't believe everything you read
 DC <<>> Disconnect
-DD <<>> Dear (or Darling) daughter
 DD <<>> Due diligence
 DDG <<>> Drop dead gorgeous
-DEEZ NUTZ <<>> A phrase used in online chat to annoy or frustrate those involved in the conversation.
-DEGT <<>> Dear (or Darling) daughter
+DEEZ NUTZ <<>> Annoying
+DEGT <<>> Dear or Darling daughter
 DERP <<>> Meaning stupid or silly
 DF <<>> Don't even go there
-DFL <<>> Dead *freaking* last (online gaming)
+DFL <<>> Dead fucking last
 DGA <<>> Don't go anywhere
-DGAF <<>> Don't give a *freak*
+DGAF <<>> Don't give a fuck
 DGT <<>> Don't go there
 DGTG <<>> Don't go there, girlfriend
 DGYF <<>> Dang, girl you fine
-DH <<>> Dear (or Darling) husband
-DHU <<>> Dinosaur hugs (used to show support)
+DH <<>> Dear or Darling husband
+DHU <<>> Dinosaur hugs
 DIIK <<>> Darned if I know
 DIKU <<>> Do I know you?
-DILLIGAF <<>> Do I look like I give a *freak*?
+DILLIGAF <<>> Do I look like I give a fuck?
 DILLIGAS <<>> Do I look like I give a sugar?
 DIS <<>> Did I say?
 DITYID <<>> Did I tell you I'm distressed?
 DIY <<>> Do it yourself
 DKDC <<>> Don't know, don't care
-DKP <<>> Dragon kill points (online gaming)
 D/L <<>> Download
 DL <<>> Download
 DL <<>> Down low
 DL <<>> Dead link
-DLBBB <<>> Don't let (the) bed bugs bite
+DLBBB <<>> Don't let bed bugs bite
 DLTBBB <<>> Don't let the bed bugs bite
 DM <<>> Doesn't matter
-DM <<>> Direct message (Twitter slang)
-DM <<>> Do me
-DM <<>> Dungeon Master (online gaming)
 DMNO <<>> Dude Man No Offense
 DMY <<>> Don't mess yourself
 DN <<>> Down
-DNC <<>> Do not compute (meaning I do not understand)
+DNC <<>> Do not compute
 DNR <<>> Dinner (SMS)
 DNT <<>> Don't
 d00d <<>> Dude
@@ -380,7 +371,7 @@ DOT <<>> Damage over time (online gaming)
 DPS <<>> Damage per second (online gaming)
 DQMOT <<>> Don't quote me on this
 DR <<>> Didn't read
-DS <<>> Dear (or Darling) son
+DS <<>> Dear or Darling son
 DTR <<>> Define the relationship
 DTRT <<>> Do the right thing
 DTS <<>> Don't think so
@@ -388,17 +379,17 @@ DTTD <<>> Don't touch that dial
 DUPE <<>> Duplicate
 DUR <<>> Do you remember?
 DV8 <<>> Deviate
-DW <<>> Dear (or Darling) wife
+DW <<>> Dear or Darling wife
 DWF <<>> Divorced white female
 DWM <<>> Divorced white male
 DXNRY <<>> Dictionary
 DYNWUTB <<>> Do you know what you are talking about?
 DYFI <<>> Did you find it?
 DYFM <<>> Dude, you fascinate me
-DYJHIW <<>> Don't you just hate it when...?
-DYOR <<>> Do your own research (common stock market chat slang)
+DYJHIW <<>> Don't you just hate it when
+DYOR <<>> Do your own research
 E <<>> Ecstasy
-E <<>> Enemy (online gaming)
+E <<>> Enemy
 E1 <<>> Everyone
 E123 <<>> Easy as one, two, three
 E2EG <<>> Ear to ear grin
@@ -410,72 +401,69 @@ EG <<>> Evil grin
 EI <<>> Eat it
 EIP <<>> Editing in progress
 ELI5 <<>> Explain like I'm 5
-EM <<>> E-mail (Twitter slang)
-EMA <<>> E-mail address (Twitter slang)
-EMBAR <<>> Meaning "Embarassing"
+EM <<>> E-mail
+EMA <<>> E-mail address
+EMBAR <<>> Embarassing
 EMFBI <<>> Excuse me for butting in
 EMFBI <<>> Excuse me for jumping in
 EMSG <<>> E-mail message
 ENUF <<>> Enough
-EOD <<>> End of day
 EOD <<>> End of discussion
 EOL <<>> End of lecture
 EOL <<>> End of life
 EOM <<>> End of message
 EOS <<>> End of show
 EOT <<>> End of transmission
-EQ <<>> EverQuest (online gaming)
-ERP <<>> Meaning "Erotic Role-Play" (online gaming)
-ERS2 <<>> Eres tz / are you (Spanish SMS)
+ERP <<>> Erotic Role-Play
 ES <<>> Erase screen
-ESAD <<>> Eat *S* and die!
+ESAD <<>> Eat shit and die!
 ETA <<>> Estimated time (of) arrival
 ETA <<>> Edited to add
 EVA <<>> Ever
 EVO <<>> Evolution
-EWG <<>> Evil wicked grin (in fun, teasing)
+EWG <<>> Evil wicked grin
 EWI <<>> Emailing while intoxicated
 EYC <<>> Excitable, yet calm
 EZ <<>> Easy
 EZY <<>> Easy
 F <<>> Meaning female
 F2F <<>> Face to face
-F2P <<>> Free to play (online gaming)
+F2P <<>> Free to play
 FAAK <<>> Falling asleep at keyboard
 FAB <<>> Fabulous
-Facepalm <<>> Used to represent the gesture of "smacking your forehead with your palm" to express embarrassment or frustration
-FAF <<>> Funny as *freak*
+Facepalm <<>> smacking your forehead with your palm
+FAF <<>> Funny as fuck
 FAQ <<>> Frequently asked questions
-FAY <<>> *Freak* all you
+FAY <<>> Fuck all you
 FB <<>> Facebook
-FBB <<>> Meaning "Facebook buddy"
+FBB <<>> Facebook buddy
 FBC <<>> Facebook chat
 FBF <<>> Flashback Friday
-FBF <<>> Meaning "Facebook friend"
-FBF <<>> Fat boy food (e.g. pizza, burgers, fries)
+FBF <<>> Facebook friend
+FBF <<>> Fat boy food
 FBFR <<>> FaceBook friend
 FBM <<>> Fine by me
-FBO <<>> Facebook official (An official update from Facebook)
+FBO <<>> Facebook official
 FBOW <<>> For better or worse
 FC <<>> Fingers crossed
-FC <<>> Full card (online gaming)
+FC <<>> Full card
 FC'INGO <<>> For crying out loud
 FCOL <<>> For crying out loud
-FEITCTAJ <<>> *Freak* 'em if they can't take a joke
-FF <<>> Follow Friday (Twitter slang)
-FFA <<>> Free for all (online gaming)
-FFS <<>> For *freak'*sakes
+FEITCTAJ <<>> fuck them if they can't take a joke
+FF <<>> Follow Friday
+FFA <<>> Free for all
+FFS <<>> For fuck'sakes
 FICCL <<>> Frankly I couldn't care a less
-FIF <<>> *Freak* I'm funny
-FIIK <<>> *Freaked* if I know
+FIF <<>> fuck I'm funny
+FIIK <<>> fucked if I know
 FIIOOH <<>> Forget it, I'm out of here
 FIL <<>> Father in law
 FIMH <<>> Forever in my heart
 FISH <<>> First in, still here
 FITB <<>> Fill in the blank
-FML <<>> *Freak* My Life
+FML <<>> fuck My Life
 FOMC <<>> Falling off my chair
-FOAD <<>> *Freak* off and die
+FOAD <<>> fuck off and die
 FOAF <<>> Friend of a friend
 FOMCL <<>> Falling off my chair laughing
 FRT <<>> For real though
@@ -483,10 +471,9 @@ FTBOMH <<>> From the bottom of my heart
 FTFY <<>> Fixed that for you
 FTL <<>> For the loss
 FTW <<>> For the win
-FU <<>> *Freak* you
+FU <<>> fuck you
 FUBAR <<>> Fouled up beyond all recognition
 FUBB <<>> Fouled up beyond belief
-FUD <<>> Face up deal (online gaming)
 FUTAB <<>> Feet up, take a break
 FW <<>> Forward
 FWB <<>> Friend with benefits
@@ -503,14 +490,13 @@ G2CU <<>> Good to see you
 G2G <<>> Got to go
 G2GICYAL8ER <<>> Got to go I'll see you later
 G2R <<>> Got to run
-G2TU <<>> Got to tell u (you)
+G2TU <<>> Got to tell you
 G4C <<>> Going for coffee
 G9 <<>> Genius
 GA <<>> Go ahead
 GAC <<>> Get a clue
-GAFC <<>> Get a *freaking* clue
+GAFC <<>> Get a fucking clue
 GAL <<>> Get a life
-GANK <<>> Meaning a player ambush or unfair player kill (online gaming)
 GAS <<>> Got a second?
 GAS <<>> Greetings and salutations
 GB <<>> Goodbye
@@ -523,27 +509,26 @@ GFI <<>> Go for it
 GF <<>> Girl friend
 GFN <<>> Gone for now
 GG <<>> Gotta Go
-GG <<>> Good Game (online gaming)
-GG <<>> Brother (Mandarin Chinese txt msgs)
-GGA <<>> Good game, all (online gaming)
-GGE1 <<>> Good game, everyone (online gaming)
+GG <<>> Good Game
+GGA <<>> Good game, all
+GGE1 <<>> Good game, everyone
 GGU2 <<>> Good game, you too
 GGMSOT <<>> Gotta get me some of that
 GGOH <<>> Gotta Get Outa Here
 GGP <<>> Got to go pee
-GH <<>> Good hand (online gaming)
+GH <<>> Good hand
 GIAR <<>> Give it a rest
-GIC <<>> Gift in crib (online gaming)
+GIC <<>> Gift in crib
 GIGO <<>> Garbage in, garbage out
 GIRL <<>> Guy in real life
 GJ <<>> Good job
 GL <<>> Good luck
-GL2U <<>> Good luck to you (online gaming)
-GLA <<>> Good luck all (online gaming)
-GL/HF <<>> Good luck, have fun� (online gaming)
-GLE <<>> Good luck everyone (online gaming)
-GLE1 <<>> Good luck everyone (online gaming)
-GLNG <<>> Good luck next game (online gaming)
+GL2U <<>> Good luck to you
+GLA <<>> Good luck all
+GL/HF <<>> Good luck, have fun
+GLE <<>> Good luck everyone
+GLE1 <<>> Good luck everyone
+GLNG <<>> Good luck next game
 GMBA <<>> Giggling my butt off
 GMTA <<>> Great minds think alike
 GMV <<>> Got my vote
@@ -563,15 +548,14 @@ GRL <<>> Girl
 GRWG <<>> Get right with God
 GR&D <<>> Grinning, running and ducking
 GS <<>> Good shot
-GS <<>> Good split (online gaming)
 GT <<>> Good try
-GTFO <<>> Get the *freak* out
-GTFOH <<>> Get the *freak* outta here
+GTFO <<>> Get the fuck out
+GTFOH <<>> Get the fuck out of here
 GTG <<>> Got to go
 GTM <<>> Giggling to myself
-GTRM <<>> Going to read mail�
-GTSY <<>> Great (or good) to see you�
-GUD <<>> Good�
+GTRM <<>> Going to read mail
+GTSY <<>> Great to see you
+GUD <<>> Good
 GWHTLC <<>> Glad we had this little chat
 H <<>> Hug
 H8 <<>> Hate
@@ -584,8 +568,7 @@ H2CUS <<>> Hope to see you soon
 HAGN <<>> Have a good night
 HAGO <<>> Have a good one
 HAND <<>> Have a nice day
-HAWT <<>> Have a wonderful day (out-dated, see next in list)
-HAWT <<>> Meaning "sexy" or "attractive"
+HAWT <<>> sexy
 HB <<>> Hurry back
 HB <<>> Hug back
 HBD <<>> Happy birthday
@@ -595,21 +578,18 @@ HF <<>> Have fun
 HFAC <<>> Holy flipping animal crackers
 H-FDAY <<>> Happy Father's Day
 HHIS <<>> Head hanging in shame
-HIFW <<>> How I felt when... (Used with photo or gif)
-HL <<>> Half Life (online gaming)
-HLA <<>> Hola / hello (Spanish SMS)
+HIFW <<>> How I felt when
+HLA <<>> Hello
 H-MDAY <<>> Happy Mother's Day
-HNL <<>> (w)Hole 'nother level
+HNL <<>> whole another level
 HOAS <<>> Hold on a second
-HP <<>> Hit points / Health points (online gaming)
 HRU <<>> How are you?
 HTH <<>> Hope this helps
 HUB <<>> Head up butt
-HUYA <<>> Head up your *butt*
-HV <<>> Have�
-HVH <<>> Heroic Violet Hold (online gaming)
+HUYA <<>> Head up your ass
+HV <<>> Have
 HW <<>> Homework
-HYFR <<>> Hell yeah, *Freaking* right!
+HYFR <<>> Hell yeah, fucking right!
 I2 <<>> I too (me too)
 IA8 <<>> I already ate
 IAAA <<>> I am an accountant
@@ -619,7 +599,7 @@ IAC <<>> In any case
 IAE <<>> In any event
 IANAC <<>> I am not a crook
 IANAL <<>> I am not a lawyer
-IAO <<>> I am out (of here)
+IAO <<>> I am out
 IB <<>> I'm back
 IB <<>> I'm back
 IC <<>> I see
@@ -627,10 +607,10 @@ ICAM <<>> I couldn't agree more
 ICBW <<>> It could be worse
 ICEDI <<>> I can't even discuss it
 ICFILWU <<>> I could fall in love with you
-ICYMI <<>> In case you missed it (Twitter slang)
+ICYMI <<>> In case you missed it
 IDBI <<>> I don't believe it
 IDC <<>> I don't care
-IDGAF <<>> �I don't give a *freak*
+IDGAF <<>> I don't give a fuck
 IDK <<>> I don't know
 IDTS <<>> I don't think so
 IDUNNO <<>> I don't know
@@ -638,8 +618,8 @@ IFYP <<>> I feel your pain
 IG <<>> Instagram
 IG2R <<>> I got to run
 IGHT <<>> I got high tonight
-IGN <<>> I (I've) got nothing
-IGP <<>> I got to (go) pee
+IGN <<>> I got nothing
+IGP <<>> I got to pee
 IHNI <<>> I have no idea
 IIRC <<>> If I remember correctly
 IIIO <<>> Intel inside, idiot outside
@@ -653,23 +633,22 @@ ILY <<>> I love you
 IM <<>> Instant message
 IMAO <<>> In my arrogant opinion
 IMHO <<>> In my humble opinion
-ImL <<>> (in Arial font) Means I love you (a way of using the American sign language in text)
 IMNSHO <<>> In my not so humble opinion
 IMO <<>> In my opinion
 IMS <<>> I am sorry
 IMSB <<>> I am so bored
 IMTM <<>> I am the man
-IMU <<>> I miss u (you)
+IMU <<>> I miss you
 INAL <<>> I'm not a lawyer
-INC <<>> Meaning "incoming" (online gaming)
-INV <<>> Meaning "Invite"
+INC <<>> incoming
+INV <<>> Invite
 IOMH <<>> In over my head
 IOW <<>> In other words
 IRL <<>> In real life
 IRMC <<>> I rest my case
 ISLY <<>> I still love you
 ISO <<>> In search of
-ITAM <<>> It's The Accounting, Man (financial blogs)
+ITAM <<>> It's The Accounting, Man
 ITYK <<>> I thought you knew
 IUSS <<>> If you say so
 IWALU <<>> I will always love you
@@ -678,27 +657,27 @@ IWIAM <<>> Idiot wrapped in a moron
 IWSN <<>> I want sex now
 IYKWIM <<>> If you know what I mean
 IYO <<>> In your opinion
-IYQ <<>> Meaning "I like you"
+IYQ <<>> I like you
 IYSS <<>> If you say so
 j00 <<>> You
 j00r <<>> Your
 JAC <<>> Just a second
 JAM <<>> Just a minute
 JAS <<>> Just a second
-JC (J/C) <<>> Just checking
+JC <<>> Just checking
 JDI <<>> Just do it
-JELLY <<>> Meaning "jealous"
+JELLY <<>> jealous
 JFF <<>> Just for fun
-JFGI <<>> Just *freaking* Google it
+JFGI <<>> Just fucking Google it
 JIC <<>> Just in case
-JJ (J/J) <<>> Just joking
+JJ  <<>> Just joking
 JJA <<>> Just joking around
-JK (J/K) <<>> Just kidding
+JK <<>> Just kidding
 JLMK <<>> Just let me know
 JMO <<>> Just my opinion
-JP <<>> Just playing�
-JP <<>> Jackpot (online gaming, bingo games)
-JT (J/T) <<>> Just teasing
+JP <<>> Just playing
+JP <<>> Jackpot
+JT <<>> Just teasing
 JTLYK <<>> Just to let you know
 JV <<>> Joint venture
 JW <<>> Just wondering
@@ -707,8 +686,8 @@ KK <<>> Okay
 K8T <<>> Katie
 k/b <<>> Keyboard
 KB <<>> Keyboard
-KB <<>> Kick butt (online gaming)
-KDFU <<>> Means Cracking (K) the (D as in Da) *freak* up
+KB <<>> Kick butt
+KDFU <<>> Cracking the fuck up
 KEWL <<>> Cool
 KEYA <<>> I will key you later
 KEYME <<>> Key me when you get in
@@ -716,7 +695,7 @@ KFY <<>> Kiss for you
 KIA <<>> Know it all
 KISS <<>> Keep it simple, stupid
 KIT <<>> Keep in touch
-KMA <<>> Kiss my *a*
+KMA <<>> Kiss my ass
 KMK <<>> Kiss my keister
 KMT <<>> Kiss my tushie
 KOC <<>> Kiss on cheek
@@ -727,17 +706,16 @@ KOW <<>> Knock on wood
 KOTC <<>> Kiss on the cheek
 KOTL <<>> Kiss on the lips
 KNIM <<>> Know what I mean?
-KNOW <<>> Meaning "knowledge"
+KNOW <<>> knowledge
 KPC <<>> Keeping parents clueless
-KS <<>> Kill then steal (online gaming)
-KSC <<>> Kind (of) sort (of) chuckle
+KSC <<>> Kind of chuckle
 KT <<>> Katie
 KUTGW <<>> Keep up the good work
 L2G <<>> Like to go?
 L2G <<>> (would) Love to go
 L2K <<>> Like to come
 L2P <<>> Learn to play
-l33t <<>> Leet, meaning 'elite'
+l33t <<>> elite
 L8R <<>> Later
 L8RG8R <<>> Later, gator
 LBAY <<>> Laughing back at you
@@ -749,9 +727,8 @@ LDO <<>> Like, duh obviously
 LEMENO <<>> Let me know
 LERK <<>> Leaving easy reach of keyboard
 LFD <<>> Left for day
-LFG <<>> Looking for group (online gaming)
-LFG <<>> Looking for guard (online gaming)
-LFM <<>> Looking for more (online gaming)
+LFG <<>> Looking for group
+LFM <<>> Looking for more
 LGH <<>> Lets get high
 LH6 <<>> Lets have sex
 LHSX <<>> Lets have sex
@@ -762,25 +739,23 @@ LIC <<>> Like I care
 LIK <<>> Meaning liquor
 LIMT <<>> Laugh in my tummy
 LLGB <<>> Love, later, God bless
-LLS <<>> Laughing like *silly*
-LMAO <<>> Laughing my *a* off
+LLS <<>> Laughing like silly
+LMAO <<>> Laughing my ass off
 LMBO <<>> Laughing my butt off
-LMFAO <<>> Laughing my freaking *a* off
+LMFAO <<>> Laughing my fucking ass off
 LMIRL <<>> Lets meet in real life
 LMK <<>> Let me know
-LMMFAO <<>> Laughing my mother freaking a** off
+LMMFAO <<>> Laughing my mother fucking ass off
 LMNK <<>> Leave my name out
-LMS <<>> Like my status (Facebook)
+LMS <<>> Like my status
 LNT <<>> Meaning lost in translation
 LOA <<>> List of acronyms
-LOL <<>> Laughing out loud
 LOL <<>> Laugh out loud
-LOL <<>> Lots of love
 LOLH <<>> Laughing out loud hysterically
 LOLO <<>> Lots of love
-LOLWTF <<>> Laughing out loud (saying) "What the *freak*?"
+LOLWTF <<>> Laughing out loud What the fuck
 LOTI <<>> Laughing on the inside
-LOTR <<>> Lord of The Rings (online gaming)
+LOTR <<>> Lord of The Rings
 LQTM <<>> Laughing quietly to myself
 LSHMBH <<>> Laugh so hard my belly hurts
 LSV <<>> Language, sex and violence
@@ -793,7 +768,7 @@ LULT <<>> Love you long time
 LULZ <<>> Meaning joke, or for laughs
 LVM <<>> Left voice mail
 LWOS <<>> Laughing without smiling
-LY <<>> Love ya�
+LY <<>> Love ya
 LYLAS <<>> Love you like a sis
 LYLC <<>> Love you like crazy
 LYSM <<>> Love you so much
@@ -804,44 +779,36 @@ MBS <<>> Mom behind shoulder
 MC <<>> Merry Christmas
 MDIAC <<>> My Dad is a cop
 MEGO <<>> My eyes glaze over
-MEH <<>> Meaning a "shrug" or shrugging shoulders
-MEH <<>> Meaning a "so-so" or "just okay"
-MEHH <<>> Meaning a "sigh" or sighing
-MEZ <<>> Meaning "mesmerize" (online gaming)
+MEH <<>> shrug
+MEH <<>> just okay
+MEHH <<>> sigh
+MEZ <<>> mesmerize
 MFI <<>> Mad for it
-MFW <<>> My face when... (Used with photo or gif)
+MFW <<>> My face when
 MGB <<>> May God bless
 MGMT <<>> Management
-MHOTY <<>> My hat (is) off to you
+MHOTY <<>> My hat off to you
 MIRL <<>> Me in real life
 MIRL <<>> Meet in real life
-MISS.(number) <<>> Meaning "child and her age". Miss.3 would be a 3-year old daughter
-MKAY <<>> Meaning "Mmm, okay"
-MLM <<>> Meaning give the middle finger
-MM <<>> Sister (Mandarin Chinese txt msg)
-MMK <<>> Meaning okay? (as a question)
-MNC <<>> Mother nature calls
-MNSG <<>> Mensaje (message in Spanish)
-MOD <<>> Moderator
-MOD <<>> Modification (online gaming)
+MKAY <<>> Mmm, okay
+MOD <<>> Modification
 MORF <<>> Male or female?
 MOMBOY <<>> Mamma's boy
 MOO <<>> My own opinion
 MOOS <<>> Member of the opposite sex
 MOS <<>> Mother over shoulder
 MOSS <<>> Member of same sex
-MP <<>> Mana points (online gaming)
-MR.(number) <<>> Meaning "child and his age". Mr.3 would be a 3-year old son
-MRT <<>> Modified ReTweet� (Twitter slang)
-MRW <<>> My reaction when... (Used with photo or gif)
+MP <<>> Mana points
+MRT <<>> Modified ReTweet
+MRW <<>> My reaction when
 MSG <<>> Message
 MTF <<>> More to follow
 MTFBWU <<>> May the force be with you
-MU <<>> Miss U (you)
-MUAH <<>> Multiple unsuccessful attempts (at/to) humor
+MU <<>> Miss you
+MUAH <<>> Multiple unsuccessful attempts at humor
 MUSM <<>> Miss you so much
-MWAH <<>> Meaning "kiss" (it is is the sound made when kissing through the air)
-MYO <<>> Mind your own (business)
+MWAH <<>> kiss
+MYO <<>> Mind your own
 MYOB <<>> Mind your own business
 n00b <<>> Newbie
 N1 <<>> Nice one
@@ -850,21 +817,20 @@ NADT <<>> Not a darn thing
 NALOPKT <<>> Not a lot of people know that
 NANA <<>> Not now, no need
 NBD <<>> No big deal
-NBFAB <<>> No bad for a beginner (online gaming)
-NC <<>> Nice crib (online gaming)
-ND <<>> Nice double (online gaming)
+NBFAB <<>> No bad for a beginner
+NC <<>> Nice crib
+ND <<>> Nice double
 NE <<>> Any
 NE1 <<>> Anyone
-NERF <<>> Meaning "Changed and is now weaker" (online gaming)
-NFM <<>> None for me / Not for me
+NERF <<>> Changed and is now weaker
 NFM <<>> Not for me
-NGL <<>> Not gonna (going to) lie
-NFS <<>> Need for Speed (online gaming)
+NGL <<>> Not going to lie
+NFS <<>> Need for Speed
 NFS <<>> Not for sale
-NFW <<>> No *freaking* way
+NFW <<>> No fucking way
 NFW <<>> Not for work
 NFWS <<>> Not for work safe
-NH <<>> Nice hand (online gaming)
+NH <<>> Nice hand
 NIFOC <<>> Naked in front of computer
 NIGI <<>> Now I get it
 NIMBY <<>> Not in my back yard
@@ -872,37 +838,37 @@ NIROK <<>> Not in reach of keyboard
 NLT <<>> No later than
 NM <<>> Nothing much
 NM <<>> Never mind
-NM <<>> Nice meld (online gaming)
+NM <<>> Nice meld
 NMH <<>> Not much here
 NMJC <<>> Nothing much, just chilling
 NMU <<>> Not much, you?
 NO1 <<>> No one
-NOOB <<>> Meaning someone who is bad at (online) games
-NOWL <<>> Meaning "knowledge"
+NOOB <<>> someone who is bad at games
+NOWL <<>> knowledge
 NOYB <<>> None of your business
 NP <<>> No problem
-NPC <<>> Non-playing character (online gaming)
+NPC <<>> Non-playing character
 NQT <<>> Newly qualified teacher
-NR <<>> Nice roll (online gaming)
-NRN <<>> No response/reply necessary
-NS <<>> Nice score (online gaming)
-NS <<>> Nice split (online gaming)
+NR <<>> Nice roll
+NRN <<>> No reply necessary
+NS <<>> Nice score
+NS <<>> Nice split
 NSA <<>> No strings attached
 NSFL <<>> Not safe for life
 NSFW <<>> Not safe for work
 NSISR <<>> Not sure if spelled right
 NT <<>> Nice try
-NTHING <<>> Nothing (SMS)
+NTHING <<>> Nothing
 NTS <<>> Note to self
 NVM <<>> Never mind
 NVR <<>> Never
 NW <<>> No way
 NWO <<>> No way out
 O4U <<>> Only for you
-O <<>> Opponent (online gaming)
-O <<>> Meaning "hugs"
+O <<>> Opponent
+O <<>> hugs
 O <<>> Over
-OA <<>> Online auctions (see more auction abbreviations)
+OA <<>> Online auctions
 OATUS <<>> On a totally unrelated subject
 OB <<>> Oh baby
 OB <<>> Oh brother
@@ -911,7 +877,7 @@ OFC <<>> Of course
 OG <<>> Original gangster
 OGIM <<>> Oh God, it's Monday
 OH <<>> Overheard
-OHHEMMGEE <<>> Meaning "Oh My God" (alternate of OMG)
+OHHEMMGEE <<>> Oh My God
 OI <<>> Operator indisposed
 OIB <<>> Oh, I'm back
 OIC <<>> Oh, I see
@@ -920,15 +886,15 @@ OL <<>> Old lady
 OLL <<>> Online love
 OM <<>> Old man
 OM <<>> Oh, my
-OMAA <<>> Oh, my aching *A* (butt)
+OMAA <<>> Oh, my aching ass
 OMDB <<>> Over my dead body
-OMFG <<>> Oh my *freaking* God
-omfglmaobbqrofl copteriss <<>> �� oh my *freaking* god, laugh my *a* off, owned, roll on floor spinning around I'm so sad
+OMFG <<>> Oh my fucking God
+omfglmaobbqrofl copteriss <<>> oh my fucking god, laugh my ass off, owned, roll on floor spinning around I'm so sad
 OMG <<>> Oh my God
 OMG <<>> Oh my gosh
 OMGYG2BK <<>> Oh my God, you got to be kidding
-OMGYS <<>> Oh my gosh you suck�
-OMS <<>> On my soul (meaning "promise")
+OMGYS <<>> Oh my gosh you suck
+OMS <<>> On my soul
 OMW <<>> On my way
 ONL <<>> Online
 OO <<>> Over and out
@@ -939,7 +905,7 @@ OOTO <<>> Out of the office
 OP <<>> On phone
 ORLY <<>> Oh really?
 OS <<>> Operating system
-OT <<>> Off topic (discussion forums)
+OT <<>> Off topic
 OTB <<>> Off to bed
 OTFL <<>> On the floor laughing
 OTL <<>> Out to lunch
@@ -950,28 +916,28 @@ OTTOMH <<>> Off the top of my head
 OTW <<>> Off to work
 OVA <<>> Over
 OYO <<>> On your own
-P <<>> Partner (online gaming)
+P <<>> Partner
 P2P <<>> Parent to parent
 P2P <<>> Peer to peer
-P2P <<>> Pay to play (online gaming)
+P2P <<>> Pay to play
 P911 <<>> Parents coming into room alert
-PAT <<>> Meaning "patrol" (online gaming)
+PAT <<>> patrol
 PAW <<>> Parents are watching
-PBOOK <<>> Phonebook (e-mail)
-PC <<>> Player character (online gaming)
+PBOOK <<>> Phonebook
+PC <<>> Player character
 PCM <<>> Please call me
-PDA <<>> Personal display (of) affection
+PDA <<>> Personal display of affection
 PDH <<>> Pretty darn happy
 PDS <<>> Please don't shoot
 PDQ <<>> Pretty darn quick
 PEEPS <<>> People
-PFT <<>> Pretty *freaking* tight
+PFT <<>> Pretty fucking tight
 PIC <<>> Picture
-PIP <<>> Peeing in pants (laughing hard)
+PIP <<>> Peeing in pants
 PIR <<>> Parents in room
 PISS <<>> Put in some sugar
-PITA <<>> Pain in the *butt*
-PKMN <<>> Pokemon (online gaming)
+PITA <<>> Pain in the ass
+PKMN <<>> Pokemon
 PL8 <<>> Plate
 PLD <<>> Played
 PLMK <<>> Please let me know
@@ -986,9 +952,9 @@ PMSL <<>> Pee myself laughing
 POAHF <<>> Put on a happy face
 POIDH <<>> Picture, or it didn't happen
 POS <<>> Parent over shoulder
-POT <<>> Meaning "potion" (online gaming)
+POT <<>> potion
 POV <<>> Point of view
-POV <<>> Privately owned vehicle (originally used to differentiate an individual's vehicle from a military vehicle)
+POV <<>> Privately owned vehicle
 PPL <<>> People
 PPU <<>> Pending pick-up
 PRESH <<>> Precious
@@ -997,29 +963,29 @@ PROLLY <<>> Probably
 PROGGY <<>> Meaning computer program
 PRON <<>> Meaning pornography
 PRT <<>> Party
-PRT <<>> Please Retweet (Twitter slang)
-PRW <<>> People/parents are watching
+PRT <<>> Please Retweet
+PRW <<>> People are watching
 PSOS <<>> Parent standing over shoulder
 PSP <<>> Playstation Portable
-PST <<>> Please send tell (online gaming)
-PTFO <<>> Pass the *freak* out
+PST <<>> Please send tell
+PTFO <<>> Pass the fucking out
 PTIYPASI <<>> Put that in your pipe and smoke it
 PTL <<>> Praise the Lord
 PTMM <<>> Please tell me more
 PTO <<>> Paid time off
 PTO <<>> Personal time off
 PTO <<>> Parent Teacher Organization
-PUG <<>> Pick up group (online gaming)
-PVP <<>> Player versus player (online gaming)
-PWN <<>> Meaning "own"
+PUG <<>> Pick up group
+PVP <<>> Player versus player
+PWN <<>> own
 PXT <<>> Please explain that
 PU <<>> That stinks!
-PUKS <<>> Pick up kids (SMS)
+PUKS <<>> Pick up kids
 PYT <<>> Pretty young thing
-PZ <<>> Peace�
+PZ <<>> Peace
 PZA <<>> Pizza
 Q <<>> Queue
-Q4U <<>> (I have a) question for you
+Q4U <<>> question for you
 QC <<>> Quality control
 QFE <<>> Question for everyone
 QFI <<>> Quoted for idiocy
@@ -1028,17 +994,19 @@ QFT <<>> Quoted for truth
 QIK <<>> Quick
 QL <<>> Quit laughing
 QOTD <<>> Quote of the day
-QQ (qq) (Q_Q) <<>> Meaning "crying eyes"
+QQ <<>> crying eyes
+qq <<>> crying eyes
+Q_Q <<>> crying eyes
 QQ <<>> Quick question
 QSL <<>> Reply�
 QSO <<>> Conversation
 QT <<>> Cutie
 QTPI <<>> Cutie pie
-R <<>> Meaning "are"
-R8 <<>> Rate (SMS)
+R <<>> are
+R8 <<>> Rate
 RBAY <<>> Right back at you
-RFN <<>> Right *freaking* now
-RGR <<>> Roger (I agree, I understand)
+RFN <<>> Right fucking now
+RGR <<>> Roger
 RHIP <<>> Rank has its privileges
 RIP <<>> Rest in peace
 RL <<>> Real life
@@ -1048,22 +1016,22 @@ RMLB <<>> Read my lips baby
 RMMM <<>> Read my mail man
 ROFL <<>> Rolling on floor laughing
 ROFLCOPTER <<>> Rolling on floor laughing and spinning around
-ROFLMAO <<>> Rolling on the floor, laughing my *butt* off
+ROFLMAO <<>> Rolling on the floor, laughing my ass off
 ROTFL <<>> Rolling on the floor laughing
 ROTFLUTS <<>> Rolling on the floor laughing unable to speak
-RS <<>> Runescape (online gaming)
+RS <<>> Run escape
 RSN <<>> Real soon now
-RT <<>> Roger that or RTRetweet (Twitter slang)
+RT <<>> Roger that
 RTBS <<>> Reason to be single
-RTFM <<>> Read the *freaking* manual
-RTFQ <<>> Read the *freaking* question
-RTHX <<>> Meaning "Thanks for the RT (Retweet)" (Twitter slang)
+RTFM <<>> Read the fucking manual
+RTFQ <<>> Read the fucking question
+RTHX <<>> Thanks for the Retweet
 RTMS <<>> Read the manual, stupid
-RTNTN <<>> Retention (email, Government)
-RTRCTV <<>> Retroactive (email, Government)
-RTRMT <<>> Retirement (email, Government)
+RTNTN <<>> Retention
+RTRCTV <<>> Retroactive
+RTRMT <<>> Retirement
 RTSM <<>> Read the stupid manual
-RTWFQ <<>> Read the whole *freaking* question
+RTWFQ <<>> Read the whole fucking question
 RU <<>> Are you?
 RUMOF <<>> Are you male or female?
 RUT <<>> Are u (you) there?
@@ -1071,9 +1039,9 @@ RUOK <<>> Are you okay?
 RX <<>> Regards
 RW <<>> Real world
 RX <<>> Meaning drugs or prescriptions
-RYB <<>> Read your Bible�
+RYB <<>> Read your Bible
 RYO <<>> Roll your own
-RYS <<>> Read your screen�
+RYS <<>> Read your screen
 RYS <<>> Are you single?
 S2R <<>> Send to receive
 S2S <<>> Sorry to say
@@ -1118,7 +1086,7 @@ SMHID <<>> Scratching my head in disbelief
 SNAFU <<>> Situation normal all fouled up
 SNERT <<>> Snot nosed egotistical rude teenager
 SO <<>> Significant other
-SOAB <<>> Son of a *Beach*
+SOAB <<>> Son of a bitch
 S'OK <<>> It's okay
 SOL <<>> Sooner or later
 SOMY <<>> Sick of me yet?
@@ -1138,7 +1106,7 @@ SSDD <<>> Same stuff, different day
 SSIF <<>> So stupid it's funny
 SSINF <<>> So stupid it's not funny
 ST&D <<>> Stop texting and drive
-STFU <<>> Shut the *freak* up
+STFU <<>> Shut the fuck up
 STR8 <<>> Straight
 STW <<>> Search the Web
 SU <<>> Shut up
@@ -1148,15 +1116,15 @@ SUP <<>> What's up?
 SUTH <<>> So used to haters
 SUX <<>> it sucks
 SUYF <<>> Shut up you fool
-SWAG <<>> Meaning free stuff and giveaways from tech tradeshows
-SWAG <<>> Scientific wild *a* guess
+SWAG <<>> Meaning free stuff and giveaways from tech trade shows
+SWAG <<>> Scientific wild ass guess
 SWAK <<>> Sent with a kiss
 SWALK <<>> Sealed (or sealed) with a loving kiss
-SWAT <<>> Scientific wild *butt* guess
+SWAT <<>> Scientific wild ass guess
 SWL <<>> Screaming with laughter
 SWMBO <<>> She who must be obeyed. Meaning wife or partner
-SYL <<>> See you later�
-SYS <<>> See you soon�
+SYL <<>> See you later
+SYS <<>> See you soon
 SYY <<>> Shut your yapper
 T+ <<>> Think positive
 T4BU <<>> Thanks for being you
@@ -1166,7 +1134,7 @@ TAFN <<>> That's all for now
 TAM <<>> Tomorro a.m.
 TANKED <<>> owned
 TANKING <<>> owning
-TARFU <<>> Things Are Really *fouled* Up.
+TARFU <<>> Things Are Really fucked Up.
 TAU <<>> Thinking about you
 TAUMUALU <<>> Thinking about you miss you always love you
 TBC <<>> To be continued
@@ -1178,7 +1146,7 @@ TCB <<>> Take care of business
 TCOY <<>> Take care of yourself
 TD2M <<>> Talk dirty to me
 TDTM <<>> Talk dirty to me
-TFF <<>> Too *freaking* funny
+TFF <<>> Too fucking funny
 TFS <<>> Thanks for sharing
 TFTI <<>> Thanks for the invitation
 TG <<>> Thank goodness
@@ -1234,17 +1202,18 @@ TYFYC <<>> Thank you for your comment
 TYS <<>> Told you so
 TYT <<>> Take your time
 TYSO <<>> Thank you so much
-TYAFY <<>> Thank you and *freak* you
+TYAFY <<>> Thank you and fuck you
 TYVM <<>> Thank you very much
+U <<>> you
 ^URS <<>> Up yours
 UCMU <<>> You crack me up
 UDM <<>> You the man
 UDS <<>> Ugly domestic scene
-UFB <<>> Un *freaking* believable
+UFB <<>> Un fucking believable
 UFN <<>> Until further notice
-UFWM <<>> You *freaking* with me?
+UFWM <<>> You fucking with me?
 UGTBK <<>> You've got to be kidding
-UHGTBSM <<>> You have got to be s#$t*ing me
+UHGTBSM <<>> You have got to be shitting me
 UKTR <<>> You know that's right
 UL <<>> Upload
 UL <<>> You will
@@ -1274,7 +1243,7 @@ VAT <<>> Value added tax
 VBL <<>> Visible bra line
 VBS <<>> Very big smile
 VEG <<>> Very evil grin
-VFF <<>> Very freaking funny
+VFF <<>> Very fucking funny
 VFM <<>> Value for money
 VGC <<>> Very good condition
 VGG <<>> Very good game
@@ -1326,7 +1295,7 @@ WIU <<>> Wrap it up
 WK <<>> Week
 WKD <<>> Weekend
 WRT <<>> With regard to
-WL <<>> Whatta loser
+WL <<>> What a loser
 W/O <<>> Without
 WOA <<>> Work of Art
 WOMBAT <<>> Waste of money, brains and time
@@ -1334,9 +1303,9 @@ WRK <<>> Work
 WRU <<>> Where are you?
 WRU@ <<>> Where are you at?
 WRUD <<>> What are you doing?
-WTF <<>> What the *freak* ?
-WTFE <<>> What the *freak* ever
-WTFO <<>> What the *freak* ?, over.
+WTF <<>> What the fuck?
+WTFE <<>> What the fuck ever
+WTFO <<>> What the fuck ?, over.
 WTG <<>> Way to go
 WTGP <<>> Want to go private
 WTH <<>> What the heck?
@@ -1403,7 +1372,7 @@ YTTL <<>> You take too long
 YTG <<>> You're the greatest
 YW <<>> You're welcome
 YWHNB <<>> Yes, we have no bananas
-YWHOL <<>> Yelling "woohoo" out loud
+YWHOL <<>> Yelling woohoo out loud
 YWSYLS <<>> You win some, you lose some
 YYSSW <<>> Yeah, yeah, sure, sure, whatever
 ZUP <<>> What's up?
