@@ -10,7 +10,7 @@ class DOM:
 
     @staticmethod
     def main():
-        path = "../../resources/ChatTabsPagelet6.txt"
+        path = "../../resources/ChatTabsPagelet4.txt"
         dom_file = open(path, 'r', encoding="utf8")
         divs = BeautifulSoup(dom_file, 'html.parser').find_all('div')
 
@@ -48,11 +48,13 @@ class DOM:
                 div_text = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_5pbx userContent _3576")
                 div_images = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_3x-2")
 
-                iden = postel.attrs['id']
-                title = div_title.text.replace("\n", "").replace("  ", "")
                 try:
+                    iden = postel.attrs['id']
+                    title = div_title.text.replace("\n", "").replace("  ", "")
                     text = div_text.text.strip()
                 except AttributeError:
+                    iden = ""
+                    title = ""
                     text = ""
                 images = BeautifulSoup(str(div_images), 'html.parser').find_all('img')
                 imagesList = []
