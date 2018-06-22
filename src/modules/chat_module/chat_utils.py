@@ -8,7 +8,7 @@ class Utils:
             :param   ==>> None
             :returns ==>> Emoticon Dictionary
         """
-        path = "../../resources/emoticons.txt"
+        path = "../../resources/chat_resources/emoticons.txt"
         emoticon_file = open(path, 'r')
         emoticon_list = emoticon_file.readlines()
         emoticon_file.close()
@@ -26,7 +26,7 @@ class Utils:
             :param   ==>> None
             :returns ==>> Abbreviations Dictionary
         """
-        path = "../../resources/abbreviations.txt"
+        path = "../../resources/chat_resources/abbreviations.txt"
         abbreviations_file = open(path, 'r')
         abbreviations_list = abbreviations_file.readlines()
         abbreviations_file.close()
@@ -45,7 +45,7 @@ class Utils:
             :returns ==>> Set of Swear Words
         """
         swear_set = set()
-        path = "../../resources/swear_words.txt"
+        path = "../../resources/chat_resources/swear_words.txt"
         sw_file = open(path, 'r')
         sw_list = sw_file.readlines()
         sw_file.close()

@@ -5,14 +5,14 @@ import os
 import numpy as np
 
 
-knife_model = pickle.load(open("knife_model.pkl", 'rb'))
-gun_model = pickle.load(open("gun_model.pkl", 'rb'))
-blood_model = pickle.load(open("blood_model.pkl", 'rb'))
-adult_model = pickle.load(open("adult_model.pkl", 'rb'))
-cake_model = pickle.load(open("cake_model.pkl", 'rb'))
-bread_model = pickle.load(open("bread_model.pkl", 'rb'))
-cutlery_model = pickle.load(open("cutlery_model.pkl", 'rb'))
-police_model = pickle.load(open("police_model.pkl", 'rb'))
+knife_model = pickle.load(open("model/knife_model.pkl", 'rb'))
+gun_model = pickle.load(open("model/gun_model.pkl", 'rb'))
+blood_model = pickle.load(open("model/blood_model.pkl", 'rb'))
+adult_model = pickle.load(open("model/adult_model.pkl", 'rb'))
+cake_model = pickle.load(open("model/cake_model.pkl", 'rb'))
+bread_model = pickle.load(open("model/bread_model.pkl", 'rb'))
+cutlery_model = pickle.load(open("model/cutlery_model.pkl", 'rb'))
+police_model = pickle.load(open("model/police_model.pkl", 'rb'))
 
 
 def main():
