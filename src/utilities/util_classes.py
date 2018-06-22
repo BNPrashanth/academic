@@ -14,7 +14,8 @@ class Conversation:
 
     def display(self):
         GenLogger.info(self.title)
-        GenLogger.info(self.messages)
+        for msg in self.messages:
+            GenLogger.info(msg.content)
 
 
 class Message:
@@ -50,6 +51,19 @@ class Post:
         self.title = title
         self.text = text
         self.images = images
+
+
+class Comment:
+    iden = ""
+    text = ""
+    repliesList = []
+
+    def set_comment(self, iden="", text=""):
+        self.iden = iden
+        self.text = text
+
+    def display(self):
+        GenLogger.info(self.iden + " <<>> " + self.text + " <<>> ")
 
 
 class DOMContent:

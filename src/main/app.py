@@ -74,9 +74,15 @@ def chat_get_message_groups():
         @:returns   ==>> Text Feature for the given Message
     """
     GenLogger.info("Starting to Group Messages..")
-    response = chat_handler.identify_message_groups(request.json["messageslist"])
+    response, responseSynsetList = chat_handler.identify_message_groups(request.json["messageslist"])
     GenLogger.info(response)
-    return jsonify({'response': "Success.."})
+    messageGroups = []
+    for li in response:
+        group = []
+        for el in li:
+            group.append(el)
+        messageGroups.append(group)
+    return jsonify({'response': messageGroups})
 
 
 if __name__ == '__main__':

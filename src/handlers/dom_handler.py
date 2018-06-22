@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from utilities.util_classes import Conversation, Message, Post
+from utilities.util_classes import Conversation, Message, Post, Comment
 from log.logger import GeneralLogger
 
 Logger = GeneralLogger(__name__)
@@ -10,10 +10,13 @@ class DOM:
 
     @staticmethod
     def main():
-        path = "../../resources/ChatTabsPagelet4.txt"
+        path = "../../resources/ChatTabsPagelet8.txt"
         dom_file = open(path, 'r', encoding="utf8")
-        divs = BeautifulSoup(dom_file, 'html.parser').find_all('div')
-
+        try:
+            divs = BeautifulSoup(dom_file, 'html.parser').find_all('div')
+        except UnicodeDecodeError:
+            print("UnicodeDecodeError")
+            return []
         return divs
 
     def main_posts(self):
@@ -31,7 +34,8 @@ class DOM:
         chat_tabs_pagelet_divs = []
         for div in divs:
             if 'id' in div.attrs and div.attrs['id'] == 'ChatTabsPagelet':
-                chat_tabs_pagelet_divs = BeautifulSoup(str(div), 'html.parser').find_all('div', class_="_5qi9 _5qib")
+                chat_tabs_pagelet_divs = BeautifulSoup(str(div),
+                                        'html.parser').find_all('div', class_="_5qi9 _5qib")
                 GenLogger.info("No. of Conversations ==>> " + str(len(chat_tabs_pagelet_divs)))
                 break
         return chat_tabs_pagelet_divs
@@ -45,17 +49,63 @@ class DOM:
                 div_contWrapper = BeautifulSoup(str(postel), 'html.parser').find('div', class_="_5pcr userContentWrapper")
                 div_post = BeautifulSoup(str(div_contWrapper), 'html.parser').find('div', class_="_1dwg _1w_m _q7o")
                 div_title = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="d_jzeu0c5xw z_jzeu0fdqr clearfix")
-                div_text = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_5pbx userContent _3576")
-                div_images = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_3x-2")
+                div_text = BeautifulSoup(str(div_post),
+                        'html.parser').find('div', class_="_5pbx userContent _3576")
+                div_images = BeautifulSoup(str(div_post),
+                        'html.parser').find('div', class_="_3x-2")
+
+                ee = BeautifulSoup(str(postel), 'html.parser').find('div', class_="_3b-9 _j6a")
+                for iii in ee.contents[0].contents:
+                    # for i in iii.attrs:
+                    if 'aria-label' in iii.attrs and iii.attrs['aria-label'] == 'Comment':
+                        comment = Comment()
+                        iden = iii.attrs['id']
+                        text = iii.text
+                        print(iden)
+                        print(text)
+                        comment.set_comment(iden, text)
+                    if 'class' in iii.attrs and iii.attrs['class'][1] == 'UFIReplyList':
+                        print()
+                    # print(iii.text)
+
+
+                if not div_title:
+                    div_title = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="_6a _5u5j")
+
+                if BeautifulSoup(str(postel), 'html.parser').find('ul', class_="uiList uiCollapsedList uiCollapsedListHidden _5pbz _5va0 _4kg"):
+                    ss = BeautifulSoup(str(postel), 'html.parser').find('ul', class_="uiList uiCollapsedList uiCollapsedListHidden _5pbz _5va0 _4kg")
+                    dd = BeautifulSoup(str(ss), 'html.parser').find_all('li',class_= "")
+                    for a in dd:
+                        aa = BeautifulSoup(str(a), 'html.parser').find('div', class_="_1dwg _1w_m _q7o");
+                        hh = BeautifulSoup(str(aa), 'html.parser').find('h6', class_="_14f3 _14f5 _5pbw _5vra");
+                        div_text = hh.text; #assigning text inside 'li'
+                        iddd = BeautifulSoup(str(a), 'html.parser').find('div', class_="mbs _5v9_ _5jmm _5v3q _5pat _5va1 _3ccb");
+
+                        try:
+                            # BeautifulSoup(str(a), 'html.parser').find_all('a', class_="titlebarText")
+                            idd = a.contents[0].attrs['id']
+                            iden = idd
+                            print(idd)
+                            print(hh.text)
+                        except AttributeError:
+                            pass
 
                 try:
                     iden = postel.attrs['id']
-                    title = div_title.text.replace("\n", "").replace("  ", "")
-                    text = div_text.text.strip()
                 except AttributeError:
                     iden = ""
+                try:
+                    title = div_title.text.replace("\n", "").replace("  ", "")
+                except AttributeError:
                     title = ""
-                    text = ""
+                try:
+                    text = div_text.text.strip()
+                except AttributeError:
+                    div_text = BeautifulSoup(str(div_post), 'html.parser').find('div', class_="userContent")
+                    try:
+                        text = div_text.text.strip()
+                    except AttributeError:
+                        text = ""
                 images = BeautifulSoup(str(div_images), 'html.parser').find_all('img')
                 imagesList = []
                 for image in images:

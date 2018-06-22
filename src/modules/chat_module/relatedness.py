@@ -1,10 +1,13 @@
 from nltk.corpus import wordnet as wn
 import numpy as np
 import math
+import spacy
 from log.logger import GeneralLogger
 
 Logger = GeneralLogger(__name__)
 GenLogger = Logger.init_general_logger()
+
+nlp = spacy.load("en_core_web_lg")
 
 
 class Similarity:
@@ -78,9 +81,11 @@ class Similarity:
     @staticmethod
     def get_message_vector_full(semWords, sim_measure=wn.path_similarity):
         synsetList = []
+        if len(semWords) == 1:
+            synsetList.append(wn.synsets(semWords[0][0], pos=semWords[0][1][0].lower())[0])
+            return synsetList
         for i in range(len(semWords)):
             synsets = wn.synsets(semWords[i][0], pos=semWords[i][1][0].lower())
-            # print(synsets)
             max_similarity = 0.0
             bestSynset = None
             for synset in synsets:
@@ -110,26 +115,35 @@ class Similarity:
                 if res > max_similarity:
                     max_similarity = res
                     bestSynset = synset
+                elif res == 0:
+                    bestSynset = synsets[0]
             GenLogger.debug("BEST >>>>>>>>>>>>>>>>>>>>>>>>>>>>> ", bestSynset)
             if bestSynset:
                 synsetList.append(bestSynset)
-        # print(synsetList)
         return synsetList
 
     @staticmethod
     def get_message_similarity(sent_vec_A, sent_vec_B, sim_measure=wn.path_similarity):
-        print("\nSentence Similarity..")
+        GenLogger.debug("\nSentence Similarity..")
         similarity_score = 0
         for synsetA in sent_vec_A:
             for synsetB in sent_vec_B:
                 try:
                     similarity_score = similarity_score + sim_measure(synsetA, synsetB)
-                    print("Similarity between==>> ", synsetA, " and ", synsetB, " ==>> ", sim_measure(synsetA, synsetB))
+                    # print("Similarity between==>> ", synsetA, " and ", synsetB, " ==>> ", sim_measure(synsetA, synsetB))
                 except TypeError:
-                    similarity_score = similarity_score + 0.0
-        print("Total Similarity Score: ", similarity_score)
-        print("Similarity: ", similarity_score/(len(sent_vec_A) * len(sent_vec_B)))
-        print("Mutiply:", (len(sent_vec_A) * len(sent_vec_B)))
+                    try:
+                        similarity_score = similarity_score + sim_measure(synsetB, synsetA)
+                        # print("Similarity between==>> ", synsetA, " and ", synsetB, " ==>> ", sim_measure(synsetB, synsetA))
+                    except TypeError:
+                        similarity_score = similarity_score + 0.0
+        try:
+            similarity = 4 * (similarity_score/(len(sent_vec_A) * len(sent_vec_B)))
+        except ZeroDivisionError:
+            similarity = 0
+        GenLogger.debug("Total Similarity Score: " + str(similarity_score))
+        GenLogger.debug("Similarity: " + str(similarity))
+        return similarity
 
     def get_message_similarity_cosine(self, sent_vec_A, sent_vec_B):
         GenLogger.debug("\nSentence Similarity - Cosine..")
@@ -155,13 +169,20 @@ class Similarity:
                     count += 1
             vecB.append(count)
         sim = self.cosine_similarity(np.array(vecA), np.array(vecB))
-        print("Similarity for:", vecA, " <<and>> ", vecB, "==>>", sim)
         return sim
 
-    def get_message_group(self, messagesList, score):
+    @staticmethod
+    def get_message_similarity_spacy(sentA, sentB):
+        vecA = nlp(sentA)
+        vecB = nlp(sentB)
+        return vecA.similarity(vecB)
+
+
+    def get_message_group(self, messagesList, score, sim_method=get_message_similarity):
         ungroupedMessages = []
         i = 0
         msgGroup = []
+        groupedIndexes = []
         while i < len(messagesList):
             GenLogger.debug("inside 1st..")
             msg = messagesList[i]
@@ -181,14 +202,17 @@ class Similarity:
                             break
                         else:
                             try:
-                                if self.get_message_similarity_cosine(msg, messagesList[j]) >= score:
+                                if self.get_message_similarity(msg, messagesList[j]) >= score:
                                     print(msg, messagesList[j], " are similar..")
                                     similarity_found = True
                                     if len(msgGroup) != 0 and msgGroup[len(msgGroup) - 1].__eq__(msg):
                                         msgGroup.append(messagesList[j])
+                                        groupedIndexes.append(j)
                                     else:
                                         msgGroup.append(msg)
                                         msgGroup.append(messagesList[j])
+                                        groupedIndexes.append(i)
+                                        groupedIndexes.append(j)
                                     i = j
                                     GenLogger.debug("Breakinggg..")
                                     break
@@ -199,16 +223,14 @@ class Similarity:
                     j += 1
             if not similarity_found:
                 i += 1
-        # print("Grouped Messages ==>> ")
-        # for m in msgGroup:
-        #     print(m)
         for msg in messagesList:
             if msg not in msgGroup:
                 ungroupedMessages.append(msg)
-        # print("UnGrouped Messages ==>> ")
-        # for m in ungroupedMessages:
-        #     print(m)
-        return msgGroup, ungroupedMessages
+        ungroupedIndexes = []
+        for i in range(len(messagesList)):
+            if messagesList[i] not in msgGroup:
+                ungroupedIndexes.append(i)
+        return msgGroup, ungroupedMessages, groupedIndexes, ungroupedIndexes
 
     @staticmethod
     def dot_product(v1, v2):
@@ -218,4 +240,9 @@ class Similarity:
         prod = self.dot_product(v1, v2)
         len1 = math.sqrt(self.dot_product(v1, v1))
         len2 = math.sqrt(self.dot_product(v2, v2))
-        return prod / (len1 * len2)
+        try:
+            return prod / (len1 * len2)
+        except ZeroDivisionError:
+            return 0
+        except RuntimeWarning:
+            return 0

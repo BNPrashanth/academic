@@ -7,6 +7,7 @@ Logger = GeneralLogger(__name__)
 GenLogger = Logger.init_general_logger()
 
 utils = Utils()
+emo_dict = utils.get_emoticon_dict()
 
 
 class FeatureIdentifier:
@@ -20,10 +21,10 @@ class FeatureIdentifier:
             @:returns ==>> Text Feature for the given message
         """
         phrases = message.split()
-        is_not_text = False
         msg_text = ""
         for phrase in phrases:
             GenLogger.debug(phrase)
+            is_not_text = False
             # If phrase is an image
             if "_IMG_" in phrase:
                 msg_text = msg_text + phrase[5:]
@@ -34,15 +35,12 @@ class FeatureIdentifier:
                 GenLogger.debug("MetaData ==>> " + metadata)
                 msg_text = msg_text + metadata + " "
                 continue
-
             # If phrase is an emoticon
-            emo_dict = utils.get_emoticon_dict()
             for k in emo_dict:
                 if k.lower() in phrase:
                     GenLogger.debug("Expression ==>> " + k + " ==> " + emo_dict[k])
                     msg_text = msg_text + emo_dict[k] + " "
                     is_not_text = True
-
             # If phrase is Text
             if not is_not_text:
                 msg_text = msg_text + phrase + " "

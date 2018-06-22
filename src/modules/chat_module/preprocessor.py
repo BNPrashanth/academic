@@ -10,20 +10,20 @@ Logger = GeneralLogger(__name__)
 GenLogger = Logger.init_general_logger()
 
 utils = Utils()
+abbreviations_dict = utils.get_abbreviations_dict()
 
 
 class PreProcessor:
 
     def main_pre_process(self, message):
-        abbreviations_dict = utils.get_abbreviations_dict()
-        word_list = message.split()
         new_message = ""
-        for word in word_list:
-            if word.lower() in abbreviations_dict:
-                expansion = abbreviations_dict[word.lower()]
+        tokens = self.tokenize(message)
+        for token in tokens:
+            if token.lower() in abbreviations_dict:
+                expansion = abbreviations_dict[token.lower()]
                 new_message = new_message + " " + expansion
             else:
-                new_message = new_message + " " + word
+                new_message = new_message + " " + token
         tokens = self.tokenize(new_message)
         ne = ne_chunk(pos_tag(tokens))
         ne_set = set()
