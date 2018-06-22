@@ -36,8 +36,13 @@ def safe_fb():
         @:returns    ==>> Appropriateness of Posts and Intention of Chatters
     """
     GenLogger.info("FB Companion Started..")
-    response = op.main()
-    GenLogger.info(response)
+    post_res, chat_res = op.main()
+    GenLogger.info(post_res)
+    GenLogger.info(chat_res)
+    for res in post_res:
+        print(res[0], res[1], res[2])
+    for res in chat_res:
+        print(res[0], res[1])
     return jsonify({'response': "Success.."})
 
 

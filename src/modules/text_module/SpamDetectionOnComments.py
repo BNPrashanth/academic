@@ -68,9 +68,9 @@ model2 = LinearSVC()
 model1.fit(train_matrix,train_labels)
 model2.fit(train_matrix,train_labels)
 
-filename = '../../resources/MultinomialNB_model.pkl'
+filename = '../../../resources/text_resources/MultinomialNB_model.pkl'
 pickle.dump(model1, open(filename, 'wb'))
-filename = '../../resources/LinearSVC.pkl'
+filename = '../../../resources/text_resources/LinearSVC.pkl'
 pickle.dump(model2, open(filename, 'wb'))
 
 # Test the unseen mails for Spam

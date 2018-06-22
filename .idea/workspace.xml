@@ -2,46 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10f596a-2bad-4f85-a5a4-cc8bd058b629" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/BadWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/Emoticons_dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/LinearSVC.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/MultinomialNB_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/Post_Trans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/SVM_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/TestPOC.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/generalLog.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text_resources/yelp_academic_dataset_review.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/chat_module/experiments/experiments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/chat_module/experiments/train_classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/text_module/Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FaceBookCompanion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FaceBookCompanion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/bnprashanth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/bnprashanth.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/image_module/execute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/image_module/feature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/image_module/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/abbreviations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chat_resources/abbreviations.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/emoji_unicode.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chat_resources/emoji_unicode.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/emoticons.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chat_resources/emoticons.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/swear_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chat_resources/swear_words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/handlers/chat_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/chat_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/handlers/dom_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/dom_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/text_resources/Post_Trans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/text_resources/Post_Trans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handlers/image_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/image_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handlers/request_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/request_handler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/handlers/text_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/text_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/log/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/log/logger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/chat_resources/related_messages_pair" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/chat_resources/related_messages_pair" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/chat_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/chat_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/experiments/experiment_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/experiments/experiment_handler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/feature_identifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/feature_identifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/intention_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/intention_classifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/message_grouper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/message_grouper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/preprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/preprocessor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/chat_module/relatedness.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/chat_module/relatedness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utilities/util_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/util_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,38 +24,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="experiments.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/modules/chat_module/experiments/experiments.py">
+      <file leaf-file-name="image_handler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/handlers/image_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="113" selection-start-line="112" selection-end-line="113" />
+            <state relative-caret-position="128">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="relatedness.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/chat_module/relatedness.py">
+      <file leaf-file-name="request_handler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/handlers/request_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1960">
-              <caret line="144" column="57" selection-start-line="144" selection-start-column="57" selection-end-line="144" selection-end-column="57" />
+            <state relative-caret-position="624">
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpamDetectionOnComments.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="202">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text_handler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/handlers/text_handler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util_classes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utilities/util_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -105,15 +95,13 @@
       <find />
       <find>butt</find>
       <find>lol</find>
-      <find />
-      <find />
-      <find />
-      <find />
       <find>nouns_and_verbs</find>
       <find>chatTa</find>
       <find>stop</find>
       <find>wn.syn</find>
       <find>Response()</find>
+      <find>From Outside program</find>
+      <find>image.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/handlers/image_handler.py" />
         <option value="$PROJECT_DIR$/src/utilities/dom_content.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/similarity.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/chat_resources/experiment_app.py" />
@@ -135,7 +122,6 @@
         <option value="$PROJECT_DIR$/resources/swear_words.txt" />
         <option value="$PROJECT_DIR$/resources/ChatTabsPagelet7.txt" />
         <option value="$PROJECT_DIR$/resources/ChatTabsPagelet8.txt" />
-        <option value="$PROJECT_DIR$/src/handlers/request_handler.py" />
         <option value="$PROJECT_DIR$/src/log/logger.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/experiments/experiment_handler.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -146,7 +132,6 @@
         <option value="$PROJECT_DIR$/src/modules/chat_module/chat_utils.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/feature_identifier.py" />
         <option value="$PROJECT_DIR$/src/handlers/chat_handler.py" />
-        <option value="$PROJECT_DIR$/src/main/app.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/message_grouper.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/experiments/attnDict.txt" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/experiments/experiment_helper.py" />
@@ -157,15 +142,22 @@
         <option value="$PROJECT_DIR$/src/modules/chat_module/experiments/train_classifier.py" />
         <option value="$PROJECT_DIR$/src/handlers/dom_handler.py" />
         <option value="$PROJECT_DIR$/src/utilities/util_classes.py" />
-        <option value="$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py" />
-        <option value="$PROJECT_DIR$/src/handlers/text_handler.py" />
-        <option value="$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/relatedness.py" />
         <option value="$PROJECT_DIR$/src/modules/chat_module/experiments/experiments.py" />
+        <option value="$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py" />
+        <option value="$PROJECT_DIR$/resources/text_resources/Post_Trans.txt" />
+        <option value="$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py" />
+        <option value="$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py" />
+        <option value="$PROJECT_DIR$/src/handlers/image_handler.py" />
+        <option value="$PROJECT_DIR$/src/modules/image_module/execute.py" />
+        <option value="$PROJECT_DIR$/src/modules/image_module/feature.py" />
+        <option value="$PROJECT_DIR$/src/handlers/text_handler.py" />
+        <option value="$PROJECT_DIR$/src/handlers/request_handler.py" />
+        <option value="$PROJECT_DIR$/src/main/app.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="728" />
@@ -187,6 +179,12 @@
               <item name="FaceBookCompanion" type="b2602c69:ProjectViewProjectNode" />
               <item name="FaceBookCompanion" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceBookCompanion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceBookCompanion" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="text_resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FaceBookCompanion" type="b2602c69:ProjectViewProjectNode" />
@@ -229,8 +227,7 @@
               <item name="FaceBookCompanion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="chat_module" type="462c0819:PsiDirectoryNode" />
-              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="image_module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FaceBookCompanion" type="b2602c69:ProjectViewProjectNode" />
@@ -238,6 +235,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="text_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceBookCompanion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceBookCompanion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="text_module" type="462c0819:PsiDirectoryNode" />
+              <item name="Text_resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FaceBookCompanion" type="b2602c69:ProjectViewProjectNode" />
@@ -253,23 +258,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/MyFiles/soos/fl yr pjct" />
+    <property name="last_opened_file_path" value="$USER_HOME$/MyFiles/134215A/Project/SoapExperiment" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/image_module" />
+      <recent name="$PROJECT_DIR$/src/modules/text_module" />
+      <recent name="$PROJECT_DIR$/resources/text_resources" />
+      <recent name="$PROJECT_DIR$/src/modules/chat_module/experiments" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/resources/chat_resources" />
       <recent name="$PROJECT_DIR$/src/modules/chat_module/chat_resources" />
       <recent name="$PROJECT_DIR$/src/modules/chat_module/experiments" />
       <recent name="$PROJECT_DIR$/src/utilities" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/modules/text_module" />
-      <recent name="$PROJECT_DIR$/resources/text_resources" />
-      <recent name="$PROJECT_DIR$/src/modules/chat_module/experiments" />
-      <recent name="$PROJECT_DIR$/resources" />
-      <recent name="$PROJECT_DIR$/src/modules/chat_module" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,8 +289,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.experiment_handler">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SpamDetectionOnComments">
+    <configuration name="CompareWithDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FaceBookCompanion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,11 +298,47 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/modules/text_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="FeatureExtractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceBookCompanion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/modules/text_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SpamDetectionOnComments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceBookCompanion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/modules/text_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,24 +362,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="experiment_helper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FaceBookCompanion" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/modules/chat_module/experiments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/modules/chat_module/experiments/experiment_helper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FaceBookCompanion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -357,38 +380,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="qt_helper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FaceBookCompanion" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/modules/chat_module/experiments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/modules/chat_module/experiments/qt_helper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.app" />
       <item itemvalue="Python.experiment_handler" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.experiment_helper" />
-      <item itemvalue="Python.qt_helper" />
+      <item itemvalue="Python.FeatureExtractor" />
+      <item itemvalue="Python.CompareWithDictionary" />
+      <item itemvalue="Python.SpamDetectionOnComments" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SpamDetectionOnComments" />
+        <item itemvalue="Python.CompareWithDictionary" />
+        <item itemvalue="Python.FeatureExtractor" />
         <item itemvalue="Python.experiment_handler" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.experiment_helper" />
-        <item itemvalue="Python.qt_helper" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -416,13 +421,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="-4" width="1321" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19538462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19538462" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.33487654" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35339507" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35339507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.41975307" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -464,7 +470,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/main/app.py</url>
-          <line>77</line>
+          <line>82</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -496,37 +502,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/modules/chat_module/experiments/experiments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/chat_module/relatedness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2304">
-          <caret line="144" column="57" lean-forward="true" selection-start-line="144" selection-start-column="57" selection-end-line="144" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/chat_module/experiments/experiment_app.py" />
     <entry file="file://$PROJECT_DIR$/src/log/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -708,23 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/text_resources/BadWords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/handlers/dom_handler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1488">
@@ -752,61 +710,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/handlers/request_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/handlers/chat_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="60" column="63" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/handlers/text_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utilities/util_classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/chat_module/relatedness.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1960">
+        <state relative-caret-position="2240">
           <caret line="144" column="57" selection-start-line="144" selection-start-column="57" selection-end-line="144" selection-end-column="57" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
@@ -817,10 +723,132 @@
     <entry file="file://$PROJECT_DIR$/src/modules/chat_module/experiments/experiments.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="113" selection-start-line="112" selection-end-line="113" />
+          <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/text_resources/Post_Trans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/text_module/FeatureExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/text_module/Text_resources/PostText1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/text_resources/BadWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/text_module/CompareWithDictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1552">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/text_module/SpamDetectionOnComments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="72" column="45" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/text_module/Classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/image_module/feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/handlers/request_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/handlers/chat_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/handlers/image_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/handlers/text_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/image_module/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/util_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
         </state>
       </provider>
     </entry>

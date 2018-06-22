@@ -21,7 +21,7 @@ class context:
 
     def Identify_badword_inclusion(self,post_new1):
         sentence = sent_tokenize(post_new1)
-        badword = open("../../resources/BadWords.txt", "r").read()
+        badword = open("../../../resources/text_resources/BadWords.txt", "r").read()
         # print(sentence)
         tokenizer = RegexpTokenizer("[\w']+")
         # lemmatizer = WordNetLemmatizer()

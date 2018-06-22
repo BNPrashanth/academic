@@ -9,7 +9,7 @@ GenLogger = Logger.init_general_logger()
 
 
 class FeatureEx:
-    post_new = open("../../resources/Post_Trans.txt", "r").read()
+    post_new = open("../../../resources/text_resources/Post_Trans.txt", "r").read()
     soup = BeautifulSoup(post_new, "html.parser")
     content = soup.get_text()
 
@@ -82,7 +82,6 @@ class FeatureEx:
         #print(text)
         return text
 
-
     def Url_handler(self, text):
         url_removed = ""
         for word in text.split():
@@ -102,7 +101,7 @@ class FeatureEx:
             src_emo = ((m.get('src'))[-9:])[:5]
             emo_meaning = ""
             # print(src_emo)
-            emoticon = open("../../resources/Emoticons_dictionary.txt", "r").read()
+            emoticon = open("../../../resources/text_resources/Emoticons_dictionary.txt", "r").read()
             # print(emoticon)
             # print(emoticon.split('\n'))
             for c in emoticon.split('\n'):
